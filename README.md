@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/github-header-banner.png" width="100%" alt="Manasi Rathod Banner"/>
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Manasi Rathod</h1>
 <h3 align="center">AI & ML Engineer | Generative AI | LLMs | Deep Learning | Data Science</h3>
 
