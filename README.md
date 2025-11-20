@@ -1,5 +1,6 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manasi-Rathod/Manasi_Rathod/blob/main/github.png)" width="100%" alt="Manasi Rathod Banner"/>
+  <img src="https://raw.githubusercontent.com/Manasi-Rathod/Manasi_Rathod/main/github.png" width="100%" alt="Manasi Rathod Banner"/>
 </p>
 
 <h1 align="center">👋 I'm Manasi Rathod</h1>
