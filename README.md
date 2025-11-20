@@ -107,13 +107,9 @@
 </table>
 
 
-
-
 ## 🏆 Achievements  
-- ML Intern – **Symbiosis Institute of Geoinformatics**  
-- Project Intern – **DRDO R&DE(E)**  
-- Built ML pipelines using **MIMIC-IV clinical data**  
-- 92% accuracy using **XGBoost + RF**  
+- ML Intern – **Symbiosis Institute of Geoinformatics** - June 2025 - Aug 2025 
+- Project Intern – **DRDO R&DE(E)** - Aug 2025 - Feb 2025   
 - Google Cloud GenAI Arcade Certified  
 - Oracle OCI Generative AI Professional  
 
@@ -131,7 +127,7 @@
 
 ---
 
-## ✍️ Random Dev Quote  
+## ✍️ Today's Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
