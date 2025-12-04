@@ -66,7 +66,7 @@
       Implements RAG + semantic search.
     </td>
     <td>LangChain, OpenAI API, FAISS, Flask</td>
-    <td><a href="#" target="_blank">🔗 Link</a></td>
+    <td><a href="https://github.com/Manasi-Rathod/LegalMind" target="_blank">🔗 GitHub</a></td>
   </tr>
 
   <tr>
@@ -76,7 +76,7 @@
       Includes augmentation + real-time Flask interface.
     </td>
     <td>TensorFlow, CNN, Flask</td>
-    <td><a href="#" target="_blank">🔗 Link</a></td>
+    <td><a href="https://github.com/Manasi-Rathod/PlantDoc" target="_blank">🔗 GitHub</a></td>
   </tr>
 
   <tr>
@@ -86,7 +86,7 @@
       Transformer-based semantic representation.
     </td>
     <td>NLTK, spaCy, BERT, T5</td>
-    <td><a href="#" target="_blank">🔗 Link</a></td>
+    <td><a href="https://github.com/Manasi-Rathod/Text_Summarisation_Tool" target="_blank">🔗 GitHub</a></td>
   </tr>
 
   <tr>
@@ -96,7 +96,7 @@
       Includes dashboard for insights and visualization.
     </td>
     <td>Flask, Pandas, ML Models</td>
-    <td><a href="#" target="_blank">🔗 Link</a></td>
+    <td><a href="https://github.com/Manasi-Rathod/EduPredict" target="_blank">🔗 GitHub</a></td>
   </tr>
 
   <tr>
@@ -106,7 +106,7 @@
       Automated EDA + reporting pipeline.
     </td>
     <td>Scikit-learn</td>
-    <td><a href="#" target="_blank">🔗 Link</a></td>
+    <td><a href="https://github.com/Manasi-Rathod/Bank_Marketing_Prediction" target="_blank">🔗 GitHub</a></td>
   </tr>
 
 </table>
