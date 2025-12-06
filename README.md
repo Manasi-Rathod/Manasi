@@ -50,7 +50,7 @@
   </tr>
 
   <tr>
-    <td><strong>🎬 StoryTrails – AI Text-to-Video Generator</strong></td>
+    <td><strong>🎬 StoryTrails – Multimodal AI Text-to-Video Generator</strong></td>
     <td>
       Converts written stories into animated videos using multimodal AI.<br>
       LLM-based scene extraction + diffusion video generation.
@@ -60,17 +60,26 @@
   </tr>
 
   <tr>
-    <td><strong>⚖️ Smart Legal Assistant – RAG Chatbot</strong></td>
+    <td><strong>🌟 CareAssist — Post-Discharge Medical AI Assistant</strong></td>
+    <td>
+      AI-powered post-discharge assistant for patients combining discharge summaries, nephrology reference PDFs, RAG retrieval, and a multi-agent workflow (Receptionist + Clinical Agent). Includes FAISS vector store, DuckDuckGo web fallback, urgent symptom detection, detailed logging, and a Streamlit UI.
+    </td>
+    <td>Python, FastAPI, Streamlit, FAISS, SentenceTransformers, DuckDuckGo Search</td>
+    <td><a href="https://github.com/Manasi-Rathod/CareAssist" target="_blank">🔗 GitHub</a></td>
+  </tr>
+
+  <tr>
+    <td><strong>⚖️ LegalMind – Smart Legal Assistant (RAG Chatbot)</strong></td>
     <td>
       AI assistant for legal search, summarization, and context-aware Q&A.<br>
-      Implements RAG + semantic search.
+      Implements RAG + semantic search over legal PDFs.
     </td>
     <td>LangChain, OpenAI API, FAISS, Flask</td>
     <td><a href="https://github.com/Manasi-Rathod/LegalMind" target="_blank">🔗 GitHub</a></td>
   </tr>
 
   <tr>
-    <td><strong>🌱 Plant Disease Detection – CNN Model</strong></td>
+    <td><strong>🌱 PlantDoc – Plant Disease Detection</strong></td>
     <td>
       Deep Learning model classifying leaf diseases.<br>
       Includes augmentation + real-time Flask interface.
@@ -90,7 +99,7 @@
   </tr>
 
   <tr>
-    <td><strong>📊 Student Performance Evaluation System</strong></td>
+    <td><strong>📊 EduPredict – Student Performance Evaluation System</strong></td>
     <td>
       Predicts academic outcomes using ML models.<br>
       Includes dashboard for insights and visualization.
@@ -102,8 +111,8 @@
   <tr>
     <td><strong>🏦 Bank Marketing Campaign Classifier</strong></td>
     <td>
-      ML classification model predicting campaign success.<br>
-      Automated EDA + reporting pipeline.
+      ML classifier predicting marketing campaign success.<br>
+      Includes automated EDA + reporting pipeline.
     </td>
     <td>Scikit-learn</td>
     <td><a href="https://github.com/Manasi-Rathod/Bank_Marketing_Prediction" target="_blank">🔗 GitHub</a></td>
@@ -111,10 +120,11 @@
 
 </table>
 
+---
 
 ## 🏆 Achievements  
-- ML Intern – **Symbiosis Institute of Geoinformatics** - June 2025 - Aug 2025 
-- Project Intern – **DRDO R&DE(E)** - Aug 2025 - Feb 2025   
+- ML Intern – **Symbiosis Institute of Geoinformatics** (June 2025 – Aug 2025)  
+- Project Intern – **DRDO R&DE(E)** (Aug 2025 – Feb 2025)  
 - Google Cloud GenAI Arcade Certified  
 - Oracle OCI Generative AI Professional  
 
