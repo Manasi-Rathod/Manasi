@@ -50,7 +50,7 @@
   </tr>
 
   <tr>
-    <td><strong>🎬 StoryTrails – Multimodal AI Text-to-Video Generator</strong></td>
+    <td><strong>🎬 StoryTrails – Multimodal AI </strong></td>
     <td>
       Converts written stories into animated videos using multimodal AI.<br>
       LLM-based scene extraction + diffusion video generation.
